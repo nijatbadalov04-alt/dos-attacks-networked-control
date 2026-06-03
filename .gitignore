@@ -1,0 +1,17 @@
+# MATLAB generated outputs (reproducible by running main_ELE419_DoS_lab.m)
+code/outputs/
+outputs/
+
+# MATLAB binaries / scratch
+*.fig
+*.mat
+*.asv
+*.m~
+slprj/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
